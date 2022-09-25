@@ -68,7 +68,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>jilTqEKiFFIsoKzv2LwCc7ZPRKdHCE+X31GxQPn+oPY=</dsig:DigestValue>
+      <dsig:DigestValue>CDKSJeHRirQLN6qSMPSdWM5q6zK6ZQGBCkdAVOY1iGc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DbPessoa_log.ldf" size="8388608" writeableType="applicationData">
@@ -77,7 +77,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>+HpQwdburNs1GE32YT8PtoEWy4mnrkYmUpzRzeH3NIU=</dsig:DigestValue>
+      <dsig:DigestValue>OaYIzjarB4nwN1nfZxwl9T270Um453CK49SuCn36U1I=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
